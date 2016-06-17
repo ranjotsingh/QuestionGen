@@ -1,0 +1,9 @@
+C:\Users\Owner\documents\visual studio 2015\Projects\questiongen\questiongen\bin\Release\questiongen.exe.config
+C:\Users\Owner\documents\visual studio 2015\Projects\questiongen\questiongen\bin\Release\questiongen.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\questiongen\questiongen\bin\Release\questiongen.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\questiongen\questiongen\obj\Release\questiongen.questionGenWindow.resources
+C:\Users\Owner\documents\visual studio 2015\Projects\questiongen\questiongen\obj\Release\questiongen.Properties.Resources.resources
+C:\Users\Owner\documents\visual studio 2015\Projects\questiongen\questiongen\obj\Release\questiongen.csproj.GenerateResource.Cache
+C:\Users\Owner\documents\visual studio 2015\Projects\questiongen\questiongen\obj\Release\questiongen.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\questiongen\questiongen\obj\Release\questiongen.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\questiongen\questiongen\obj\Release\questiongen.csprojResolveAssemblyReference.cache
