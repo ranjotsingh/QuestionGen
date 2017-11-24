@@ -1,7 +1,7 @@
 # QuestionGen
 Generator that uses the essential information from a body of text in order to construct a quiz with multiple choice and fill in the blank questions automatically for users to answer. Its main purpose is to be used as a study tool.
 
-[Download](https://www.ranjotsingh.com/downloads/questiongen.exe)
+[Download](https://github.com/ranjotsingh/QuestionGen/releases/download/v1.0/questiongen.exe)
 
 Copying information from Wikipedia article on DNA
 ![alt text](https://raw.githubusercontent.com/ranjotsingh/QuestionGen/master/images/question_gen1.png)
