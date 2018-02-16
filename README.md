@@ -4,7 +4,7 @@ QuestionGen is a question generator that uses the essential information from a b
 
 ## Installation
 
-You install QuestionGen by downloading the executable file [here](https://github.com/ranjotsingh/QuestionGen/releases/download/v1.0/questiongen.exe).
+You can install QuestionGen by downloading the executable file [here](https://github.com/ranjotsingh/QuestionGen/releases/download/v1.0/questiongen.exe) (Windows).
 
 ## Usage
 
