@@ -2,11 +2,11 @@
 
 QuestionGen is a question generator that uses the essential information from a body of text in order to construct questions and their corresponding answers. Additionally, a provided GUI can be used to construct a quiz with multiple choice and fill in the blank questions automatically for users to answer.
 
-# Command line
-## Installation
+## Command line
+### Installation
 Download `qgtools.py` and `questiongen.py` from this repository. Python3 must be installed for usage.
 
-## Usage
+### Usage
 To generate Q&A from a text file, use the following command:<br>
 `python3 questiongen.py input.txt`<br>
 
@@ -27,13 +27,13 @@ Q: Where/when was George Washington born?
 A: February 22, 1732, in Westmoreland County, Virginia
 ```
 
-# GUI
+## GUI
 Note: The GUI is no longer being updated.
-## Installation
+### Installation
 
 You can install QuestionGen by downloading the executable file [here](https://github.com/ranjotsingh/QuestionGen/releases/download/v1.0/questiongen.exe) (Windows).
 
-## Usage
+### Usage
 
 1. You can input text that you wish to be analyized (e.g. copying information from a Wikipedia article on DNA and pasting it into the program):
 ![alt text](https://raw.githubusercontent.com/ranjotsingh/QuestionGen/master/images/question_gen1.png)
